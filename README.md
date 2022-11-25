@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Raf
+- 👀 I’m interested in different things 
+- 🌱 I’m currently learning data analytics on coursera
