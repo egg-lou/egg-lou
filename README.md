@@ -1,4 +1,4 @@
-![ezgif-1-dcf0d94e15](https://user-images.githubusercontent.com/118577897/204066549-3f3a6ffa-c5a9-4177-8206-fa6486e58e88.gif)
+![WELCOME](https://user-images.githubusercontent.com/118577897/204066620-61890632-c3d9-4605-b80a-9fdb60ad8171.gif)
 
 # 💫 About Me:
 Welcome, I am Rafael Miguel a passionate IT student. I enjoy coding as much as everyone does but the only difference is that I just started my journey toward the programming world.
