@@ -20,5 +20,3 @@ Welcome, I am Rafael Miguel a passionate IT student. I enjoy coding as much as e
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RafaelMiguel03&icon=0&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
