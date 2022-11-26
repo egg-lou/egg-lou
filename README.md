@@ -16,7 +16,7 @@ Welcome, I am Rafael Miguel a passionate IT student. I enjoy coding as much as e
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂 Random Dev Meme
-<img src="https://archive.google.com/pigeonrank//" width="512px"/>
+<img src="https://devhumor.com/content/uploads/images/December2021/ml_parrot.jpg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RafaelMiguel03&icon=0&color=12)](https://visitcount.itsvg.in)
